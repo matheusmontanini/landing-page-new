@@ -9674,6 +9674,8 @@ Logo List
 @media (max-width: 768px) {
   #brand-logo {
     padding-top: 30px;
+    padding-bottom: 30px;
+
   }
   #brand-logo .section-small {
     margin-top: 0;
@@ -9682,7 +9684,8 @@ Logo List
 
 @media (max-width: 480px) {
   #brand-logo {
-    padding-top: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   #brand-logo .section-small {
     margin-top: 0;
