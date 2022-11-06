@@ -7257,7 +7257,7 @@ select {
 }
 
 .gp-tabs-content .inspect-tab-image .image-top {
-  top: -10px;
+  /* top: -10px; */
   left: 0;
   z-index: 2;
   -webkit-transform: translateY(-20px);
@@ -7432,7 +7432,7 @@ select {
     height: 450px;
   }
   .gp-tabs-content .inspect-tab-image .image-top {
-    max-width: 450px;
+    /* max-width: 450px; */
   }
   .gp-tabs-content .inspect-tab-image .image-bottom {
     right: 0;
