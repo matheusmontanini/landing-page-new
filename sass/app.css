@@ -12526,7 +12526,7 @@ Download Two
     left: 70px;
   }
   .interface-image-wrapper.style-two .image-one {
-    max-width: 300px;
+    /* max-width: 300px; */
     left: 0;
   }
   .interface-image-wrapper.style-two .image-two {
