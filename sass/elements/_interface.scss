@@ -131,7 +131,7 @@
 
 @media (min-width: 992px) and (max-width: 1200px) {
     .interface-image-wrapper .image-two {
-        max-width: 300px;
+        // max-width: 300px;
         left: 150px;
     }
 
@@ -223,3 +223,14 @@
         }
     }
 }
+
+html {
+    scroll-behavior: smooth;
+}
+  
+  
+  
+.site-main-menu {
+    padding-top: var(--space);
+    padding-bottom: var(--space);
+  }

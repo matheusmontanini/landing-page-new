@@ -12361,7 +12361,7 @@ Download Two
 
 .interface-image-wrapper.style-two .image-two {
   position: static;
-  margin-left: 135px;
+  /* margin-left: 135px; */
 }
 
 .interface-content .interface-title h2 {
@@ -15825,3 +15825,14 @@ Download Two
   }
 }
 /*# sourceMappingURL=app.css.map */
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.site-main-menu {
+  padding-top: var(--space);
+  padding-bottom: var(--space);
+}
