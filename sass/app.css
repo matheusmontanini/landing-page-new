@@ -2207,7 +2207,7 @@ select {
 }
 
 .site-header .header-inner .site-nav .menu-wrapper:before {
-  content: '';
+  /* content: ''; */
   display: block;
   position: absolute;
   top: 0;
